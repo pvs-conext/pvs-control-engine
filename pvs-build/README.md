@@ -72,7 +72,7 @@ In case you experience issues during these steps, don't hesitate to check the [t
 [Protobuf]: <https://github.com/protocolbuffers/protobuf>
 [PI]: <https://github.com/p4lang/PI>
 [Python 2.7]: <https://www.python.org/>
-[troubleshooting]: <https://github.com/pvs-conext/pvs-control-engine/blob/master/src/Troubleshooting.md>
+[troubleshooting]: <https://github.com/pvs-conext/pvs-control-engine/blob/master/pvs-build/Troubleshooting.md>
 [examples/virtual_switches]: <https://github.com/pvs-conext/pvs-control-engine/tree/master/pvs-build/examples/virtual_switches>
 [examples/sdn_apps]: <https://github.com/pvs-conext/pvs-control-engine/tree/master/pvs-build/examples/sdn_apps>
 [examples/virtual_switches/switch_code]: <https://github.com/pvs-conext/pvs-control-engine/tree/master/pvs-build/examples/virtual_switches/switch_code>
