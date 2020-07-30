@@ -1,0 +1,36 @@
+{
+  "devices": {
+    "device:bmv2:l2": {
+      "ports": {
+        "1": {
+          "name": "l2-eth1",
+          "speed": 10000,
+          "enabled": true,
+          "number": 1,
+          "removed": false,
+          "type": "copper"
+        }
+      },
+      "basic": {
+        "managementAddress": "grpcs://127.0.0.1:50051?device_id=1",
+        "driver": "bmv2"
+      }
+    },
+   "device:bmv2:router": {
+      "ports": {
+        "1": {
+          "name": "router-eth1",
+          "speed": 10000,
+          "enabled": true,
+          "number": 1,
+          "removed": false,
+          "type": "copper"
+        }
+      },
+      "basic": {
+        "managementAddress": "grpcs://127.0.0.1:50051?device_id=2",
+        "driver": "bmv2"
+      }
+    }
+  }
+}
